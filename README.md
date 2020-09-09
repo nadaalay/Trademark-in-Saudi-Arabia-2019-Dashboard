@@ -6,4 +6,4 @@ This repesotiry includes an HTML page that contains an empaded link of a Tableau
 
 
 
-![alt dashboard](Trademark in Saudi Arabia 2019 Dashboard.png)
+![dashboard](/Trademark in Saudi Arabia 2019 Dashboard.png)
